@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 import math
+
 def main():
-    print("Hello World")
-    
-    
+    print()
+
 def DemarcationLine():
     print("This is a demarcation line")
 
