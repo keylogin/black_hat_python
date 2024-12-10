@@ -28,7 +28,8 @@ class Humans:
         return self.style
 
 def main():
-    robu = Robot()    
+    robu = Robot()
+    print(robu)    
     robu.care_like_a_robot()
     print(robu.walking_like_a_robot("walks like a robot"))
     good_man = Humans()
