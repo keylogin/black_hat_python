@@ -1,1 +1,1 @@
-# black_hat_python
+# Programs for testing penetration (black hat)
